@@ -2,7 +2,7 @@
 
 I'm a Programmer-Analyst Student in my final year of study in Saint John, NB.
 
-I'm currently working on my Independent System Development Project.
+I'm currently working toward completing an internship with TRICOAST Education as a web developer.
 <!--
 **MichaelB-McDonald/MichaelB-McDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
